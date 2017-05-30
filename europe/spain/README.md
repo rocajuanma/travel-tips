@@ -34,37 +34,87 @@
 
 
 ## Alicante
-testing
+- Playas
+- Centro de la ciudad
+- Feria en el malecón
+
 ## Almería
-testing
+- Centro de la ciudad
+- Mirador cerca del mar
+
 ## Barcelona
-testing
+### Tours
+- [FREE Walking Tour - Barcelona](http://www.neweuropetours.eu/barcelona)
+- Tour del Modernismo - Gaudí
+
+### Attractions
+- La Sagrada Familia
+- Park Güell
+- La Rambla
+- Camp Nou
+- Barrio Judío
+- Casas Modernistas
+
 ## Benidorm
-testing
+- Más playas
+- Malecón y restaurantes
+
 ## Cádiz
-testing
+- Mirador y malecón
+
 ## Carmona
-testing
+- Iglesia
+- Calles en general
+
 ## Cartagena
-testing
+### Attractions
+- Teatro Romano
+- Centro de la ciudad
+
 ## Córdoba
-testing
+### Attractions
+- Mezquita Catedral
+
 ## Granada
-testing
+### Attractions
+- La Alhambra
+- Palacio dentro de la alhambra
+- Jardines de la Alhambra
+
 ## Madrid
-testing
+### Tours
+- [FREE Walking Tour - Madrid](http://www.neweuropetours.eu/madrid)
+
+### Attractions
+- Plaza Mayor
+- Plaza Cibeles
+- Palacio Real
+- Santiago Bernabeu
+
+
 ## Málaga
-testing
+- Playas
+
 ## Marbella
 testing
+
 ## Nerja
-testing
+- Cuevas de Nerja
+
 ## Salamanca
-testing
+- Ciudad de dia y noche.
+- Edificios medievales.
+
 ## Sevilla
-testing
+- La Giralda
+- Triana
+- Catedral del Sevilla
+- Plaza de España
+
 ## Valencia
-testing
+- La ciudad del Arte y de las Ciencias
+- Catedral
+- Centro de la ciudad
 
 
 
