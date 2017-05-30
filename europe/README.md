@@ -1,9 +1,8 @@
-##### Europa
+# Europa
  
-### TIPS:
-
+## TIPS:
 * [SANDEMAN’s tour](http://www.neweuropetours.eu/)
-Free Walking Tour; es gratis, solo das una propina al final. Siempre hay versión en Inglés y Español. Dura 3~ horas y suele comenzar a las 11am. Vale mucho la pena y te recomendaría que si puedes cuadres los tours para hacerlos apenas llegues a una ciudad. Puedes pedirles sugerencias a los guías sobre donde ir o que no te puedes perder en cada ciudad. 100% recomendado.
+The Free Walking Tour; es gratis, solo das una propina al final. Siempre hay versión en Inglés y Español. Dura 3~ horas y suele comenzar a las 11am. Vale mucho la pena y te recomendaría que si puedes cuadres los tours para hacerlos apenas llegues a una ciudad. Puedes pedirles sugerencias a los guías sobre donde ir o que no te puedes perder en cada ciudad. 100% recomendado.
 
 * Student ID: Aunque este vencido, igual llévalo. Descuentos por todo lado y hasta entradas gratis a veces.
 
@@ -18,18 +17,31 @@ Free Walking Tour; es gratis, solo das una propina al final. Siempre hay versió
 * Lock, external battery pack & compass: Candado, powerbar, juice-pack y brújula son algunas cosas que te vana  venir muy bien en el viaje.
  
 ## Transportation
-
 [Buses francia](http://fr.idbus.com/)
+
+
 [Buses UK](http://uk.megabus.com/Default.aspx)
+
+
 [Buses europa](http://www.eurolines.com/en/)
+
+
 [Buses Trenes UK](http://www.thetrainline.com/)
+
+
 [Otros Buses UK](http://www.nationalexpress.com/)
+
+
 [Buses Alemania](www.busliniensuche.de)
  
 ## Hostels: 
-www.hostelbookers.com
-http://www.hostels.com/
+[HostelBookers](www.hostelbookers.com)
+
+
+[Hostels](http://www.hostels.com/)
  
 ## Others
 [Estimate Routes using Rome2Rio](http://www.rome2rio.com/)
+
+
 [Wiki Travel](http://wikitravel.org/en/Main_Page)
