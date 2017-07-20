@@ -15,9 +15,9 @@ For a short trip, [Barcelona](https://github.com/rocajuan/travel-tips/tree/maste
 - Spanish restaurants sometimes have this promotion, called "menú", which is a complete meal for a single price. By complete meal, I mean salad/appetizer, main dish, dessert/coffee. Amazing deal, great food and cheap. You can find places that offer this for like 12 euros or sometimes less. Note: The appetizers sometimes are full-size meals as well, for instance, stew(appetizer) + pasta(main dish). Pretty crazy, its awesome.
 - Go to a Tapas bar and try as many things as you can. food and drinnks are amazing.
 - Ham is huge in Spain, if you don't have any dietary restrictions, try it.
-- Try "Tinto de Verano", its a Spainsh drink that is very popular during the summer. Its light but delicies and super refreshing. ITs made with wine and club soda I think.
+- Try "Tinto de Verano", its a Spainsh drink that is very popular during the summer. Its light but delicious and super refreshing. ITs made with wine and club soda I think.
 
-
+## List of Cities Visited
 [Alicante](https://github.com/rocajuan/travel-tips/tree/master/europe/spain#alicante)
 
 [Almería](https://github.com/rocajuan/travel-tips/tree/master/europe/spain#almeria)
