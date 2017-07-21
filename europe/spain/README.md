@@ -52,9 +52,14 @@ For a short trip, [Barcelona](https://github.com/rocajuan/travel-tips/tree/maste
 
 
 ## Alicante
-- Playas
-- Centro de la ciudad
+This is mainly a beach town. If you enjoy spending the day in the ocean or sunbathing, this is a great city for you. There are many beaches all along the coast and lots of things to do in them. 
+
+### Attraction
+- City Center
 - Feria en el malecón
+Near the city center, you will find a peer with lots of boats and places t owalk around. You cannot swim in this waters but it is a very nice walk. In this same area, you will find a great number of restaurants facing the main street & peer. It is a very nice area to walk around during the day and at night since there are many restaurants, cafes and even bars to dgo to. During the summer, this area also hosts markets and fairs where you can find all sorts of things to shop.
+- Beaches
+A lot of very nice beaches a little farther from the City Center. You an easily take a taxi to them, they are very cheap. Or you can also choose to stay at hostels or airbnbs close to the beach areas. This beach areas or "balneareos" are located a little farther from the city center in a more "suburd" area full of house and appartment buildings facing the ocean.
 
 ## Almería
 - Centro de la ciudad
@@ -134,22 +139,32 @@ Again, this tour is awesome, if you get to a city where they have it, do it. I c
 - Playas
 
 ## Marbella
-testing
+- City & mall
 
 ## Nerja
+### Attractions
 - Cuevas de Nerja
+Beautiful underground caves with lots of formations and very extensive. They charge for access and you receive an audioguide to translate the spanish Tour guide.
 
 ## Salamanca
 - Ciudad de dia y noche.
 - Edificios medievales.
 
 ## Sevilla
+One of my favourites cities in Spain. Amazing people and the city is so beautiful. There are lots of things to do. You can walk through the town, enjoy wine in a restaurant facing the canal, explore the old city and Cathedral, get lost in the Plaza de Espańa and parks around it or just enjoy any great restaurant while walking to through the city.
+
+### Attractions
 - La Giralda
 - Triana
-- Catedral del Sevilla
+Area over the canal dividing downtown Sevilla and Triana. Los of hostels & airbnbs in this areas as well as bars and restaurants with trully delicious food.
+- Catedrál de Sevilla
 - Plaza de España
+Monumental square in the middle of a well-kept park. I believe it used to be a castle for one of the kings. Definitely wuite a site to see. You can also rent a carriage and drive around this plaza and park. This square is a must see.
+- Plaza de Toros (Bulll fighting ring)
 
 ## Valencia
+Valencia is a small city with a tiny but vey historical city center. The town itself is small but very beautiful. This city is known for its "Paella Valenciana", the original version of the classic Spanish Paella.
+
 ### Attractions
 - Ciudad del Arte y de la Ciencias (City of Art and Sciences)
 Its not a park or a plaza, its something in between. You will see if you go. Its an area with pretty cool buildings that you can walk around.
@@ -158,6 +173,7 @@ Sometimes there are fairs or events in this location. There is also a couple of 
 The city is small but a nice walk. lots of restaurants and multiple plazas.
 - Market (interesting experiencing if you are up for it, you can buy food, wine and other stuff)
 - Cathedral
+- Bull fighting ring
 
 
 
