@@ -11,6 +11,9 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 " target="_blank"><img src="http://img.youtube.com/vi/u4QN7xikDEc/0.jpg"
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=4LJVNyf3fy8
+" target="_blank"><img src="http://img.youtube.com/vi/4LJVNyf3fy8/0.jpg"
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ## Countries Visited
 ### [Europe](https://github.com/rocajuan/travel-tips/tree/master/europe)
