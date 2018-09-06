@@ -7,6 +7,8 @@
 
 [Arequipa](https://github.com/rocajuan/travel-tips/tree/master/americas/peru#arequipa)
 
+[Cusco](https://github.com/rocajuan/travel-tips/tree/master/americas/peru#cusco)
+
 ## Lima
 - Plaza de Armas
 - Larcomar
@@ -23,4 +25,11 @@
 - Monasterio Santa Catalina
 - Mercado San Camilo
 - Mirador de volcanes
-- Cañon del Cola
+- Cañon del Colca
+
+## Cusco
+- Plaza de Armas
+- Machu Picchu
+- Pisac
+- Valle Sagrado
+- Ollantaytambo
