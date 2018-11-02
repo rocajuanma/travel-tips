@@ -1,6 +1,6 @@
 # Thailand
 
-Very busy and popular count. Full with tourism and attractions. It is a chaotic but beautiful environment filled with super friendly people, amazing food and fun all around. From street markets, temples, parks, malls, santuaries, floating markets to airplane cementeries, treks and incredible scenery; anyone can find something exciting to do in this beautiful country.
+Very busy and popular country. Full with tourism and attractions. It is a chaotic but beautiful environment filled with super friendly people, amazing food and fun all around. From street markets, temples, parks, malls, santuaries, floating markets to airplane cementeries, treks and incredible scenery; anyone can find something exciting to do in this beautiful country.
 
 ## General information about Thailand
 
@@ -32,7 +32,6 @@ This city was extremely beautiful and full of adventure-like tours. My personal 
 
 ### Attractions
 - Old town; the old town in Chiang Mai is surrounded by a Wall. This old town has great bars, beautiful temples all of them in a decent walking distance. This is also a great area for partying and drinking, since there are several bars that are frequented by tourists and locals.
-- 
 
 ## Phuket
 This is one of the craziest cities I visited. The most popular for sure and full of tourists. The scenary in the islands and beached is trully unforgettable. The weather is amazing and it is a pretty safe area, nothing to worry about. Plenty of local restaurants with GREAT prices and really tasty food. Patong beach is the place to be if you want to party or bar-hop. It is a hub for the tourists and there is always something going on, day or night.
