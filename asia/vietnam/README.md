@@ -6,9 +6,7 @@ Ha Long Bay is huge for tourists and for good reason. The Bay is one of the most
 If more time is available, I would recommend doing a multi-day cruise, since it navigates farther from the coast and travels deep into the bay to explore less frequented islands and locations.
 
 ## Hanoi
-## Ho Chi Minh City
-ha long bay
-views, food, junk boats & nice boats, caves and kayak rides, islands and beaches. 
-overnight cruises would have been nice, etc
+Stay in Hanoi only for a nice, but was right in downtown. Out hotel was close to the an area full of bars and close to the night market. This market was the best part of Hanoi, extremely full of people walking and bumping into each other on the street. Eating and drinking on plastic tables on the road and musics everywhere.
+This experience was amazing and sureal, however, market closed and all the crowds of people dissapeared quite fast. Strange night indeed.
 
-hanoi and crazyness but empty
+## Ho Chi Minh City
