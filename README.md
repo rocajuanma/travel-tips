@@ -1,5 +1,7 @@
 # travel-tips
 Collection of things to do/visit in different countries in the world.
+### Asia
+coming soon.
 
 ### Europe
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Sed_IyHnUvE
@@ -16,6 +18,13 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ## Countries Visited
+
+### [Asia](https://github.com/rocajuan/travel-tips/tree/master/asia)
+- [Cambodia](https://github.com/rocajuan/travel-tips/tree/master/asia/cambodia)
+- [Laos](https://github.com/rocajuan/travel-tips/tree/master/asia/laos)
+- [Thailand](https://github.com/rocajuan/travel-tips/tree/master/asia/thailand)
+- [Vietnam](https://github.com/rocajuan/travel-tips/tree/master/asia/vietnam)
+
 ### [Europe](https://github.com/rocajuan/travel-tips/tree/master/europe)
 - [Austria](https://github.com/rocajuan/travel-tips/tree/master/europe/austria)
 - [Belgium](https://github.com/rocajuan/travel-tips/tree/master/europe/belgium)
@@ -28,8 +37,9 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 - [Netherlands](https://github.com/rocajuan/travel-tips/tree/master/europe/netherlands)
 - [Spain](https://github.com/rocajuan/travel-tips/tree/master/europe/spain)
 
-
-### South America
-
+### Americas
 - Argentina
+- Canada
+- Cuba
 - [Peru](https://github.com/rocajuan/travel-tips/tree/master/americas/peru)
+- USA
