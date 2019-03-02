@@ -2,14 +2,14 @@
 
 Italy is a paradise with amazing beaches and full of warm people. Every city you visit wil contain enormous amount of history, heritage and culture. From ruins to chruches, it is a complete aventure that only gets better.
 
-Most poeple visit [Florence](https://github.com/rocajuan/travel-tips/tree/master/europe/italy#florence) &
-[Rome](https://github.com/rocajuan/travel-tips/tree/master/europe/italy#rome) but this country has so many beautiful cities and places to travel to. For a quick trip, these two cities will give you the essence of the italian life but there is so much more to learn and visit.
+Most poeple visit [Florence](https://github.com/rocajuanma/travel-tips/tree/master/europe/italy#florence) &
+[Rome](https://github.com/rocajuanma/travel-tips/tree/master/europe/italy#rome) but this country has so many beautiful cities and places to travel to. For a quick trip, these two cities will give you the essence of the italian life but there is so much more to learn and visit.
 
-[Florence](https://github.com/rocajuan/travel-tips/tree/master/europe/italy#florence)
-[Rome](https://github.com/rocajuan/travel-tips/tree/master/europe/italy#rome)
-[Venice](https://github.com/rocajuan/travel-tips/tree/master/europe/italy#venice)
-[Verona](https://github.com/rocajuan/travel-tips/tree/master/europe/italy#verona)
-[Salerno](https://github.com/rocajuan/travel-tips/tree/master/europe/italy#salerno)
+[Florence](https://github.com/rocajuanma/travel-tips/tree/master/europe/italy#florence)
+[Rome](https://github.com/rocajuanma/travel-tips/tree/master/europe/italy#rome)
+[Venice](https://github.com/rocajuanma/travel-tips/tree/master/europe/italy#venice)
+[Verona](https://github.com/rocajuanma/travel-tips/tree/master/europe/italy#verona)
+[Salerno](https://github.com/rocajuanma/travel-tips/tree/master/europe/italy#salerno)
 
 ## Florence
 
