@@ -15,13 +15,13 @@ Becuase of the inca culture and the Spanish conquerors, Perú has a fantastic mi
 
 
 ## List of Cities Visited
-[Lima](https://github.com/rocajuan/travel-tips/tree/master/americas/peru#lima)
+[Lima](https://github.com/rocajuanma/travel-tips/tree/master/americas/peru#lima)
 
-[Ica](https://github.com/rocajuan/travel-tips/tree/master/americas/peru#ica)
+[Ica](https://github.com/rocajuanma/travel-tips/tree/master/americas/peru#ica)
 
-[Arequipa](https://github.com/rocajuan/travel-tips/tree/master/americas/peru#arequipa)
+[Arequipa](https://github.com/rocajuanma/travel-tips/tree/master/americas/peru#arequipa)
 
-[Cusco](https://github.com/rocajuan/travel-tips/tree/master/americas/peru#cusco)
+[Cusco](https://github.com/rocajuanma/travel-tips/tree/master/americas/peru#cusco)
 
 ## Lima
 - Plaza de Armas

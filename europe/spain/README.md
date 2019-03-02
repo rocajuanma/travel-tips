@@ -6,7 +6,7 @@ The country is divided in diffenrent regions, each of them with a lot of culture
 
 Spain to me represents a extraordinary fusion of culture, traditions and history from several civilizations including the Spanish, Arab, Turkish, etc
 
-For a short trip, [Barcelona](https://github.com/rocajuan/travel-tips/tree/master/europe/spain#barcelona), [Madrid](https://github.com/rocajuan/travel-tips/tree/master/europe/spain#madrid), [Córdoba](https://github.com/rocajuan/travel-tips/tree/master/europe/spain#cordona) & [Málaga](https://github.com/rocajuan/travel-tips/tree/master/europe/spain#malaga) are a great start, which will get you exposed to the rich culture and history of this country. If more time is available, Sevilla, Valencia, Málaga & Alicante are other great choices. Any city in general are very entertaining and in my opinion, worth it.
+For a short trip, [Barcelona](https://github.com/rocajuanma/travel-tips/tree/master/europe/spain#barcelona), [Madrid](https://github.com/rocajuanma/travel-tips/tree/master/europe/spain#madrid), [Córdoba](https://github.com/rocajuanma/travel-tips/tree/master/europe/spain#cordona) & [Málaga](https://github.com/rocajuanma/travel-tips/tree/master/europe/spain#malaga) are a great start, which will get you exposed to the rich culture and history of this country. If more time is available, Sevilla, Valencia, Málaga & Alicante are other great choices. Any city in general are very entertaining and in my opinion, worth it.
 
 ## General information about Spain
 - The country is safe, no need to worry too much about safety or walking at night. People are friendly and the city is safe.
@@ -18,37 +18,37 @@ For a short trip, [Barcelona](https://github.com/rocajuan/travel-tips/tree/maste
 - Try "Tinto de Verano", its a Spainsh drink that is very popular during the summer. Its light but delicious and super refreshing. Its made with wine and club soda and some ice.
 
 ## List of Cities Visited
-[Alicante](https://github.com/rocajuan/travel-tips/tree/master/europe/spain#alicante)
+[Alicante](https://github.com/rocajuanma/travel-tips/tree/master/europe/spain#alicante)
 
-[Almería](https://github.com/rocajuan/travel-tips/tree/master/europe/spain#almeria)
+[Almería](https://github.com/rocajuanma/travel-tips/tree/master/europe/spain#almeria)
 
-[Barcelona](https://github.com/rocajuan/travel-tips/tree/master/europe/spain#barcelona)
+[Barcelona](https://github.com/rocajuanma/travel-tips/tree/master/europe/spain#barcelona)
 
-[Benidorm](https://github.com/rocajuan/travel-tips/tree/master/europe/spain#benidorm)
+[Benidorm](https://github.com/rocajuanma/travel-tips/tree/master/europe/spain#benidorm)
 
-[Cádiz](https://github.com/rocajuan/travel-tips/tree/master/europe/spain#cadiz)
+[Cádiz](https://github.com/rocajuanma/travel-tips/tree/master/europe/spain#cadiz)
 
-[Carmona](https://github.com/rocajuan/travel-tips/tree/master/europe/spain#carmona)
+[Carmona](https://github.com/rocajuanma/travel-tips/tree/master/europe/spain#carmona)
 
-[Cartagena](https://github.com/rocajuan/travel-tips/tree/master/europe/spain#cartagena)
+[Cartagena](https://github.com/rocajuanma/travel-tips/tree/master/europe/spain#cartagena)
 
-[Córdoba](https://github.com/rocajuan/travel-tips/tree/master/europe/spain#cordona)
+[Córdoba](https://github.com/rocajuanma/travel-tips/tree/master/europe/spain#cordona)
 
-[Granada](https://github.com/rocajuan/travel-tips/tree/master/europe/spain#granada)
+[Granada](https://github.com/rocajuanma/travel-tips/tree/master/europe/spain#granada)
 
-[Madrid](https://github.com/rocajuan/travel-tips/tree/master/europe/spain#madrid)
+[Madrid](https://github.com/rocajuanma/travel-tips/tree/master/europe/spain#madrid)
 
-[Málaga](https://github.com/rocajuan/travel-tips/tree/master/europe/spain#malaga)
+[Málaga](https://github.com/rocajuanma/travel-tips/tree/master/europe/spain#malaga)
 
-[Marbella](https://github.com/rocajuan/travel-tips/tree/master/europe/spain#marbella)
+[Marbella](https://github.com/rocajuanma/travel-tips/tree/master/europe/spain#marbella)
 
-[Nerja](https://github.com/rocajuan/travel-tips/tree/master/europe/spain#nerja)
+[Nerja](https://github.com/rocajuanma/travel-tips/tree/master/europe/spain#nerja)
 
-[Salamanca](https://github.com/rocajuan/travel-tips/tree/master/europe/spain#salamanca)
+[Salamanca](https://github.com/rocajuanma/travel-tips/tree/master/europe/spain#salamanca)
 
-[Sevilla](https://github.com/rocajuan/travel-tips/tree/master/europe/spain#sevilla)
+[Sevilla](https://github.com/rocajuanma/travel-tips/tree/master/europe/spain#sevilla)
 
-[Valencia](https://github.com/rocajuan/travel-tips/tree/master/europe/spain#valencia)
+[Valencia](https://github.com/rocajuanma/travel-tips/tree/master/europe/spain#valencia)
 
 
 ## Alicante

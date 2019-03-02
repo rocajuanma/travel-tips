@@ -1,8 +1,8 @@
 # Germany
 
-[Berlin](https://github.com/rocajuan/travel-tips/tree/master/europe/germany#berlin)
-[Munich](https://github.com/rocajuan/travel-tips/tree/master/europe/germany#munich)
-[Köln](https://github.com/rocajuan/travel-tips/tree/master/europe/germany#koln)
+[Berlin](https://github.com/rocajuanma/travel-tips/tree/master/europe/germany#berlin)
+[Munich](https://github.com/rocajuanma/travel-tips/tree/master/europe/germany#munich)
+[Köln](https://github.com/rocajuanma/travel-tips/tree/master/europe/germany#koln)
 
 ## Berlin
 The graffiti capital of the world and a city full of history. Berlin is a truly great place to be. You can visit a lot of historu place, get lost in a awesome city and take multiple tours based on what you prefer.
