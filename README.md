@@ -1,7 +1,10 @@
 # travel-tips
 Collection of things to do/visit in different countries in the world.
 ### Asia
-coming soon.
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=M66zd7POMeU
+" target="_blank"><img src="http://img.youtube.com/vi/M66zd7POMeU/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 
 ### Europe
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Sed_IyHnUvE
