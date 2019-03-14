@@ -30,10 +30,19 @@ These are some of the restaurants that regular people in Perú visit and are usu
 Traditional Peruvian. This is one of my favourite restaurants, it offers quite a nice variety of peruvian dishes. Most of the dishes in this restaurant are traditional recipes, excluding ceviches, which can be found in more seafood-traditional restaurants.
 
 - [Madam Tusan](https://www.google.com/maps/place/MADAM+TUSAN/@-12.1240637,-77.0346355,15.62z/data=!4m12!1m6!3m5!1s0x9105c83f1de108e3:0x1f71c365a3106e00!2sMadam+Tusan!8m2!3d-12.1113454!4d-77.0375516!3m4!1s0x9105c81d56a80cc3:0xa8dbdf5acadc63e2!8m2!3d-12.1295573!4d-77.0222255)
-Chinese/Peruvian Fusion. This is a great place to have Chinese/Peruvian fusion. Great restaurant with pretty good chinese food with a peruvian twist.
+Chinese/Peruvian Fusion. This is an excellent place to have Chinese/Peruvian fusion. Great restaurant with amazing Chinese food with a Peruvian twist.
 
 - [Tío Mario](https://www.google.com/maps/place/El+Tio+Mario/@-12.149212,-77.022371,15z/data=!4m2!3m1!1s0x0:0x7868bc183d5a97f3?ved=2ahUKEwiDuae4poLhAhWEx4MKHTfWCSQQ_BIwDnoECAYQCA)
-Traditional Peruvian, specializes in Anticucho(bbq heart on a stick). This restaurant is a super good place to have Anticuchos, you should definitely try it out. It is in Barranco, a really nice and trendy neighbourhood in Lima. This restaurant is beside the [Bridge of Sighs](https://www.google.com/maps/place/Puente+de+los+Suspiros,+Barranco+15063,+Peru/@-12.1490644,-77.0249008,17z/data=!3m1!4b1!4m5!3m4!1s0x9105b7ed9b59d081:0x8400f1bf42b49a60!8m2!3d-12.1490697!4d-77.0227121), another attraction is Barranco.
+Traditional Peruvian, specializes in Anticucho(bbq heart on a stick). This restaurant is a super good place to have Anticuchos, you should definitely try it out. It is in Barranco, a really nice and trendy neighbourhood in Lima. This restaurant is beside the [Bridge of Sighs](https://www.google.com/maps/place/Puente+de+los+Suspiros,+Barranco+15063,+Peru/@-12.1490644,-77.0249008,17z/data=!3m1!4b1!4m5!3m4!1s0x9105b7ed9b59d081:0x8400f1bf42b49a60!8m2!3d-12.1490697!4d-77.0227121), another attraction in Barranco.
+
+- [Ricón Chami](https://www.google.com/maps/place/Rinc%C3%B3n+Cham%C3%AD/@-12.1204769,-77.0302415,17z/data=!3m1!4b1!4m5!3m4!1s0x9105c8198aa6ea6b:0xedd72ee7b1a5183c!8m2!3d-12.1204822!4d-77.0280528)
+Traditional Peruvian. This is more of a home-made type of place, tiny but good.
+
+- [Chifa Choy Tac](https://www.google.com/maps/place/Choy+Tac/@-12.1285398,-76.9991159,17z/data=!4m5!3m4!1s0x9105c7f62b48c1e1:0x75152713726548c8!8m2!3d-12.1283038!4d-76.9959509)
+Chinese/Peruvian. This is another favourite. It is always packed but it has multiple floors. The food here is very good and have very reasonable prices.
+
+- [Isolina Taberna Peruana](https://www.google.com/maps/place/Isolina+Taberna+Peruana/@-12.1475107,-77.0222407,17z/data=!4m12!1m6!3m5!1s0x9105b7edf0de1f19:0x38895e450ad180b4!2sIsolina+Taberna+Peruana!8m2!3d-12.1475685!4d-77.0223737!3m4!1s0x9105b7edf0de1f19:0x38895e450ad180b4!8m2!3d-12.1475685!4d-77.0223737)
+Traditional Peruvian. Another amazing place with very tasty good and massive portions.
 
 - [La Picantería](https://www.google.com/maps/place/La+Picanter%C3%ADa/@-12.1167646,-77.0259748,17z/data=!3m1!4b1!4m5!3m4!1s0x9105c81045eb8aff:0x9cce78ba3005d3f2!8m2!3d-12.1167699!4d-77.0237861)
 Traditional Peruvian - seafood. This is a great place to try ceviche and other seafood variaties of the Peruvian cuisine.
@@ -47,13 +56,13 @@ The other very popular restaurants but also more pricey. Amazing places as well.
 - [ámaZ](https://www.google.com/maps/place/%C3%A1maZ/@-12.1287034,-77.0287466,17z/data=!3m1!4b1!4m5!3m4!1s0x9105c81dc203f8a1:0xc292e53ab6af3a54!8m2!3d-12.1287087!4d-77.0265579)
 
 ### Neighbourhoods:
-Check this two neighbourhoods out. They are very
+Check this two neighbourhoods out.
 
 - Miraflores
 
 Super popular for tourists and very nice. Lots of parks and places to walk around. The highlight is the cliff area overlooking the beach, called "malecón". There are plenty of things to do in this neighbourhood, both outdoorsy as well as restaurants, malls.
 Checkout [Parque Kennedy](https://www.google.com/maps/place/Parque+Kennedy/@-12.1219203,-77.0328444,17z/data=!3m1!4b1!4m5!3m4!1s0x9105c819733707fb:0x1e5a74acd2420786!8m2!3d-12.1219256!4d-77.0306557) for some park exploration and some artisan markets at sunset. There are several bars, restaurants and places to visit around the area.
-Relatively close to Parque Kennedy, there are two artisan/indian markets that are nice to visit: [Mercado Artesanal]{https://www.google.com/maps/place/Mercado+Artesanal/@-12.1174627,-77.0301186,17z/data=!3m1!4b1!4m5!3m4!1s0x9105c81735e9e36b:0x3c41111219af3046!8m2!3d-12.117468!4d-77.0279299} and [Miraflores Indian Market](https://www.google.com/maps/place/Miraflores+Indian+Market/@-12.1187106,-77.0290289,18.34z/data=!4m5!3m4!1s0x9105c816d6032d59:0xbfd15c855e861703!8m2!3d-12.1161697!4d-77.028193)
+Relatively close to Parque Kennedy, there are two artisan/indian markets that are nice to visit: [Mercado Artesanal](https://www.google.com/maps/place/Mercado+Artesanal/@-12.1174627,-77.0301186,17z/data=!3m1!4b1!4m5!3m4!1s0x9105c81735e9e36b:0x3c41111219af3046!8m2!3d-12.117468!4d-77.0279299) and [Miraflores Indian Market](https://www.google.com/maps/place/Miraflores+Indian+Market/@-12.1187106,-77.0290289,18.34z/data=!4m5!3m4!1s0x9105c816d6032d59:0xbfd15c855e861703!8m2!3d-12.1161697!4d-77.028193)
 
 - Barranco
 
