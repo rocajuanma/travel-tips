@@ -44,5 +44,6 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 - Argentina
 - Canada
 - Cuba
+- Mexico
 - [Peru](https://github.com/rocajuanma/travel-tips/tree/master/americas/peru)
 - USA
