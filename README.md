@@ -41,9 +41,9 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 - [Spain](https://github.com/rocajuanma/travel-tips/tree/master/europe/spain)
 
 ### Americas
-- Argentina
-- Canada
-- Cuba
-- Mexico
+- [Argentina](https://github.com/rocajuanma/travel-tips/tree/master/americas/argentina)
+- (Canada)[https://github.com/rocajuanma/travel-tips/tree/master/americas/canada]
+- [Cuba](https://github.com/rocajuanma/travel-tips/tree/master/americas/cuba)
+- [Mexico](https://github.com/rocajuanma/travel-tips/tree/master/americas/mexico)
 - [Peru](https://github.com/rocajuanma/travel-tips/tree/master/americas/peru)
-- USA
+- [USA](https://github.com/rocajuanma/travel-tips/tree/master/americas/usa)
