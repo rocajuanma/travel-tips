@@ -1,47 +1,28 @@
 # Europa
  
-## TIPS:
-* [SANDEMAN’s tour](http://www.neweuropetours.eu/)
-The Free Walking Tour; es gratis, solo das una propina al final. Siempre hay versión en Inglés y Español. Dura 3~ horas y suele comenzar a las 11am. Vale mucho la pena y te recomendaría que si puedes cuadres los tours para hacerlos apenas llegues a una ciudad. Puedes pedirles sugerencias a los guías sobre donde ir o que no te puedes perder en cada ciudad. 100% recomendado.
+### General Tips:
+##### **[SANDEMAN’s tour](http://www.neweuropetours.eu/) - The Free Walking Tour** 
+This company has free walking tours all around Europe; look for the red umbrella in any major city plaze or square. These tours are completely free, last around 2-3~ hours, start at around 11am and only require an optinal tip at the end pof the tour. This company does excellent tours and is usually well worth any tip provided. 
+If this is interested to you, I suggest setting up these tours as soon as you get to any city. The guides are usually very friendly and super helpful if you want recommendations for things to see during your stay, regardless of the length of your trip. The benefit of doing these tours in the beginning of your trip gives you a quick overview of the city and some very valuable information about tourist attractions.
 
-* Student ID: Aunque este vencido, igual llévalo. Descuentos por todo lado y hasta entradas gratis a veces.
+#### Accommodations
+Accommodations preferences are a very personal choice but always consider the location of the place before making this decision. It is much more valuable to stay closer to the city centre, if you are planning on doing a lot of walking or exploring the city ,rather than staying in a very nice but far hotel and needing to commute or drive for 30-45min to explore the most important tourist attractions in any city.
 
-* Hostel location vs price: Por experiencia te digo que evalúes bien el precio de los hostels comparando distancia. Un hostel barato pero lejos no vale la pena. A veces vale la pena pagar un poquito más para estar en el centro y no tener que tomar metro, bus o caminar mucho.
+Evaluate your primary tourist locations and try to ensure your accomodations give you easy access to them to save time and maximize your tourist experience.
 
-* Early bookings: Quizás sea difícil en un viaje largo o de varias personas, pero trata de reservar lo más que puedas de antemano es vital. Te puede tomar toda una tarde o un día completo pero vale la pena. Sale mucho más barato y es brabzo saber que tienes todo listo y solo tienes que llegar a la ciudad o país.
+#### Transportation
 
-* Cellphone: Lleva un celular y descarga los Google Maps. Con el ‘Offline’ mode puedes descargar mapas y usarlos sin internet. 
+##### Bus
+[France](http://fr.idbus.com/)
+[Megabus - UK](http://uk.megabus.com/Default.aspx)
+[National Express - UK](http://www.nationalexpress.com/)
+[Germany](www.busliniensuche.de)
+[All Europe](http://www.eurolines.com/en/)
 
-* Payment methods: Ten una tarjeta de crédito buena siempre contigo, muchas cosas se pueden pagar así. Para el efectivo, no tienes que llevar cash o mucha plata, sino averigua si tu banco tiene algún convenio con un banco en Europa y saca plata del cajero directamente.
+##### Trains
+[UK](http://www.thetrainline.com/)
+[Eurail](https://www.eurail.com/en/eurail-passes#/)
 
-* Lock, external battery pack & compass: Candado, powerbar, juice-pack y brújula son algunas cosas que te van a venir muy bien en el viaje.
- 
-## Transportation
-[Buses francia](http://fr.idbus.com/)
-
-
-[Buses UK](http://uk.megabus.com/Default.aspx)
-
-
-[Buses europa](http://www.eurolines.com/en/)
-
-
-[Buses Trenes UK](http://www.thetrainline.com/)
-
-
-[Otros Buses UK](http://www.nationalexpress.com/)
-
-
-[Buses Alemania](www.busliniensuche.de)
- 
-## Hostels: 
-[HostelBookers](www.hostelbookers.com)
-
-
-[Hostels](http://www.hostels.com/)
- 
-## Others
+#### Others
 [Estimate Routes using Rome2Rio](http://www.rome2rio.com/)
-
-
 [Wiki Travel](http://wikitravel.org/en/Main_Page)
