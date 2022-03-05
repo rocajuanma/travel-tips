@@ -37,12 +37,12 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 - [Germany](https://github.com/rocajuanma/travel-tips/tree/master/europe/germany)
 - [Hungary](https://github.com/rocajuanma/travel-tips/tree/master/europe/hungary)
 - [Italy](https://github.com/rocajuanma/travel-tips/tree/master/europe/italy)
-- [Netherlands](https://github.com/rocajuanma/travel-tips/tree/master/europe/netherlands)
+- [Holland](https://github.com/rocajuanma/travel-tips/tree/master/europe/holland)
 - [Spain](https://github.com/rocajuanma/travel-tips/tree/master/europe/spain)
 
 ### Americas
 - [Argentina](https://github.com/rocajuanma/travel-tips/tree/master/americas/argentina)
-- (Canada)[https://github.com/rocajuanma/travel-tips/tree/master/americas/canada]
+- [Canada](https://github.com/rocajuanma/travel-tips/tree/master/americas/canada)
 - [Cuba](https://github.com/rocajuanma/travel-tips/tree/master/americas/cuba)
 - [Mexico](https://github.com/rocajuanma/travel-tips/tree/master/americas/mexico)
 - [Peru](https://github.com/rocajuanma/travel-tips/tree/master/americas/peru)
