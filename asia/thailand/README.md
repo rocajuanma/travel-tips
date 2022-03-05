@@ -4,7 +4,7 @@ Very busy and popular country. Full with tourism and attractions. It is a chaoti
 
 ## General information about Thailand
 
-- The details listed in (https://github.com/rocajuanma/travel-tips/tree/master/asia)[Asia] are very relevant and important to keep in mind.
+- The details listed in [Asia README](https://github.com/rocajuanma/travel-tips/tree/master/asia) are very relevant and important to keep in mind.
 - The country is very safe, traffic is crazy and they drive on the other side of the street so be careful while crossing the street, walking, biking or if you are brave enough; while driving.
 - Food is super cheap and extremely tasty. You can find pad thai's at markets for $2 and other dishes that are equally tasty. There are lots of restaurants that vary in price so there is something for everyone.
 - I had some issues with ATMs there, but if you face some problems withdrawing money, just try a different 'color' ATM. These ATMs are afiliated to different organizations, only some of them work with international cards. Do not freak out like I did.
