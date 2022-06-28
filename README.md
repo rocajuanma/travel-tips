@@ -20,6 +20,16 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 " target="_blank"><img src="http://img.youtube.com/vi/4LJVNyf3fy8/0.jpg"
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
+## Tips
+
+### eSIM
+
+You should consider buying a travel SIM or eSIM for traveling and having internet abroad. This is a [referral link](http://keepgo.refr.cc/juanma) to get free data on a new eSIM with Keepgo.) to get free data on multiple eSIMs plans that do not expire. 
+
+
+Give it a try if you need a quick and easy solution prior to any trip anywhere around the world. Make sure you select the correct plan or eSIM for your destination, since there are multiple plans available.
+
+Keepgo link: http://keepgo.refr.cc/juanma
 ## Countries Visited
 
 ### [Asia](https://github.com/rocajuanma/travel-tips/tree/master/asia)
