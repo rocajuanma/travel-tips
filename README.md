@@ -25,6 +25,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 ### eSIM/SIM Options
 
 You should consider buying a travel SIM or eSIM for traveling and having internet abroad. You can buy them locally at your destination or in advance online via physical or eSIM purchases. There are several providers, but here are two of them that have worked for me in the past.
+
 Give either of them a try if you need a quick and easy solution prior to any trip anywhere around the world. Make sure you select the correct plan or eSIM for your destination, since there are multiple data plans available.
 
 #### **Keepgo**
