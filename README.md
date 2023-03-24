@@ -28,18 +28,18 @@ You should consider buying a travel SIM or eSIM for traveling and having interne
 
 Give either of them a try if you need a quick and easy solution prior to any trip anywhere around the world. Make sure you select the correct plan or eSIM for your destination, since there are multiple data plans available.
 
-#### **Keepgo**
+#### **Keepgo** - [keepgo.com](https://www.keepgo.com/?aic=TBGDZJ9&utm_source=referralcandy&utm_medium=direct)
 
 > **Note**
 >
-> Referral link: http://keepgo.refr.cc/juanma - Get 3GB for free.
+> Referral link: http://keepgo.refr.cc/juanma - Click "Shop Keepgo now" and get 3GB for free.
 > 
 > Keepgo **data does not expire**, but its a bit **more expensive**.
 
 Keepgo has multiple different plans at different price ranges. The benefit of this provider is that the plans and data do not expiry, but they tend to be a bit pricier.
 Use this [referral link](http://keepgo.refr.cc/juanma) to get free data on new eSIM purchases with Keepgo.
 
-#### **Airalo**
+#### **Airalo** - [airalo.com](https://www.airalo.com/)
 
 > **Note**
 >
