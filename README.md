@@ -32,8 +32,7 @@ Give either of them a try if you need a quick and easy solution prior to any tri
 > **Note**
 >
 > Referral link: http://keepgo.refr.cc/juanma - Get 3GB for free.
->
-> Keepgo data does not expire, but its a bit more expensive.
+> Keepgo **data does not expire**, but its a bit **more expensive**.
 
 Keepgo has multiple different plans at different price ranges. The benefit of this provider is that the plans and data do not expiry, but they tend to be a bit pricier.
 Use this [referral link](http://keepgo.refr.cc/juanma) to get free data on new eSIM purchases with Keepgo.
@@ -43,8 +42,7 @@ Use this [referral link](http://keepgo.refr.cc/juanma) to get free data on new e
 > **Note**
 >
 > Referral code: `JUANMA3528` - Get $3 off.
->
-> Airalo data plans are cheaper but time limited.
+> Airalo data plans are **cheaper but time limited**.
 
 Airalo provides a variaty of plans at a cheaper cost but limited by time. In other words, this plans are perfect for short trips where you can buy specific data plans for that time at a lower cost.
 Use this referral code: `JUANMA3528` to get a discount on any new purchase.
