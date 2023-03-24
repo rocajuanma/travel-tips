@@ -32,7 +32,7 @@ Give either of them a try if you need a quick and easy solution prior to any tri
 
 > **Note**
 >
-> Referral link: http://keepgo.refr.cc/juanma - Click "Shop Keepgo now" and get 3GB for free.
+> Use this referral link: http://keepgo.refr.cc/juanma - Click "Shop Keepgo now" and get 3GB for free.
 > 
 > Keepgo **data does not expire**, but its a bit **more expensive**.
 
@@ -43,7 +43,7 @@ Use this [referral link](http://keepgo.refr.cc/juanma) to get free data on new e
 
 > **Note**
 >
-> Referral code: `JUANMA3528` - Get $3 off.
+> Use referral code: `JUANMA3528` - Get $3 off.
 > 
 > Airalo data plans are **cheaper but time limited**.
 
