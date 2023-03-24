@@ -22,14 +22,28 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ## Tips
 
-### eSIM
+### eSIM/SIM Options
 
-You should consider buying a travel SIM or eSIM for traveling and having internet abroad. This is a [referral link](http://keepgo.refr.cc/juanma) to get free data on a new eSIM with Keepgo.) to get free data on multiple eSIMs plans that do not expire. 
+You should consider buying a travel SIM or eSIM for traveling and having internet abroad. You can buy them locally at your destination or in advance online via physical or eSIM purchases. There are several sellers, but here are two of them that have worked for me in the past:
+
+#### **Keepgo**
+Keepgo has multiple different plans at different price ranges. The benefit of this provider is that the plans and data do not expiry, but they tend to be a bit pricier.
+Use this [referral link](http://keepgo.refr.cc/juanma) to get free data on new eSIM purchases with Keepgo.
+
+> **Note**
+> Referral link: http://keepgo.refr.cc/juanma - Get 3GB for free.
+> Keepgo data does not expire, but its a bit more expensive.
+
+#### **Airalo**
+Airalo provides a variaty of plans at a cheaper cost but limited by time. In other words, this plans are perfect for short trips where you can buy specific data plans for that time at a lower cost.
+Use this referral code: `JUANMA3528` to get a discount on any new purchase.
+
+> **Note**
+> Referral code: `JUANMA3528` - Get $3 off
+> Airalo data plans are cheaper but time limited.
 
 
-Give it a try if you need a quick and easy solution prior to any trip anywhere around the world. Make sure you select the correct plan or eSIM for your destination, since there are multiple plans available.
-
-Keepgo link: http://keepgo.refr.cc/juanma
+Give either of them a try if you need a quick and easy solution prior to any trip anywhere around the world. Make sure you select the correct plan or eSIM for your destination, since there are multiple data plans available.
 ## Countries Visited
 
 ### [Asia](https://github.com/rocajuanma/travel-tips/tree/master/asia)
