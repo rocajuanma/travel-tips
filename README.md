@@ -32,7 +32,7 @@ Give either of them a try if you need a quick and easy solution prior to any tri
 
 > **Note**
 >
-> Use this referral link: http://keepgo.refr.cc/juanma - Click "Shop Keepgo now" and get 3GB for free.
+> Use this [referral link](https://keepgo.refr.cc/juanma) - Click "Shop Keepgo now" and get 3GB for free.
 > 
 > Keepgo **data does not expire**, but its a bit **more expensive**.
 
